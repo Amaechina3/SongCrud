@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="df0e368f-4cc6-4496-b29b-d2f446569d97" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/songcrud/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/songcrud/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/songcrud/musicapp/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/songcrud/musicapp/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/songcrud/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songcrud/musicapp/migrations/0002_remove_song_artiste_alter_song_id.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/songcrud/musicapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/songcrud/musicapp/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
